@@ -29,6 +29,8 @@ public class demoClass implements demoInterface {
 		demoInterface obj = new demoClass();
 		Scanner s = new Scanner(System.in);
 		
+		System.out.println("CALCULATOR PROGRAM");
+		
 		System.out.println("Enter first number:");
 		val1 = s.nextInt();
 		
